@@ -1,4 +1,4 @@
-# Resume Template
+# Resume HTML Template
 ## Works Perfectly with chrome print <Ctrl + P in Chrome Browser>
 #### Have to do bit of tinkering to make the second page proper
 ##### [Sample PDF](https://drive.google.com/open?id=17Gz9S73nOy62Ji9lMfrBFXM_PTgYqGKl)  
