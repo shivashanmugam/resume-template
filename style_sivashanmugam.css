@@ -343,3 +343,11 @@ ul.no-margin{
 .details ul li{
   line-height: 1.5;
 }
+
+footer{
+  bottom: -213pt;
+    text-align: right;
+    position: absolute;
+    right: 0;
+    font-size: 8pt;
+}
