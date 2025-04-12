@@ -155,6 +155,12 @@ h1, h2, h3, h4, h5 {
   font-size: 15pt;
 }
 
+.skilltags {
+  display: flex;
+  row-gap: 4px;
+  flex-wrap: wrap
+}
+
 .container h3, .container h4, .container h5 {
   font-weight: 300;
   line-height: 1.5;
