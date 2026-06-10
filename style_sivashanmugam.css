@@ -219,6 +219,8 @@ ul.no-margin {
 }
 
 .date {
+  flex: 0 0 var(--date-block-width);
+  width: var(--date-block-width);
   word-spacing: 0pt;
   padding-left: 0.07in;
   padding-right: 0.2in;
